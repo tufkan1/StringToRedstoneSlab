@@ -1,0 +1,16 @@
+=====================================================
+ String to Redstone Slab (Cactus Farm Visibility Pack)
+=====================================================
+
+Author: Tufkan (https://github.com/tufkan1)
+Repository: https://github.com/tufkan1/StringToRedstoneSlab
+
+Description:
+Replaces tripwire/string textures and models with a redstone slab,
+and makes sand/red sand dark black to dramatically improve visibility
+and alignment when constructing high-efficiency cactus farms in Minecraft.
+
+Credits & Inspirations:
+- Developed and packaged by Tufkan (tufkan1)
+- Model logic inspired by Redstone Tweaks (RexxStone) and Respackopts (KikuGie)
+- Tested and optimized for Minecraft Java Edition 1.21 through 26.x+

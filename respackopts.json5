@@ -1,0 +1,15 @@
+{
+  'id': 'stringtoredstone',
+  'version': 1,
+  'capabilities': [
+    'FileFilter',
+    'DirFilter'
+  ],
+  // Config for categories
+  // Note: modifying it will require editing possibly many .rpo files
+  'conf': {
+    'redstone': {
+      'tripwire': true,
+    },
+  }
+}

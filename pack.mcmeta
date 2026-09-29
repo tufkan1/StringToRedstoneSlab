@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 84,
+    "supported_formats": [34, 255],
+    "min_format": 34,
+    "max_format": 255,
+    "description": "§cString to Redstone Slab §8• §7v1.0.0\n§7Optimized Cactus Farming §8| §f1.21 - 26.x+"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    redstone: {
+        tripwire: true,
+    }
+}
